@@ -3,8 +3,8 @@
 
 :root {
     --bg-color: grey;
-    --primary-color: green;
-    --secondary-color: green;
+    --primary-color: rgb(174, 132, 175);
+    --secondary-color: rgb(130, 8, 134);
     --font: monospace;
 }
 
